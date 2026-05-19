@@ -39,5 +39,4 @@ print(score)
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC select * from dgs.default.cricket_bronze_curreent_matches
+

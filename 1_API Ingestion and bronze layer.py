@@ -62,8 +62,3 @@ bronze_df.write \
          .saveAsTable("dgs.default.cricket_bronze_curreent_matches")
 
 print("Bronze table created successfully")
-
-# COMMAND ----------
-
-# MAGIC %sql
-# MAGIC
